@@ -1,2 +1,5 @@
 # Speech-Recognition-in-Python
-Created a little program that took in your speech using Window's native speech engine and converted that to keyboard strokes.
+I created a little program that took in your speech using Window's native speech recognizer and converted that to keyboard strokes. I created this program in 1 day.
+
+You are able to customize your commands to however you want. I used this in order to play different video games using only speech.
+I tested with League of Legends, Rainbow Six Siege, and Deadlock.
